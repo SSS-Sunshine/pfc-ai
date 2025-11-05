@@ -1,0 +1,10 @@
+Flask==2.0.1
+numpy
+pandas
+scikit-learn
+tensorflow
+matplotlib
+ECharts==5.0.2
+requests
+flask-cors
+pyserial==3.5
